@@ -1,6 +1,6 @@
 # Backend-Experiment2: User Registration Form
 
-##Steps
+## Steps
 
 ### 1. Import Database
 Create database user_registration_db and table users in phpMyAdmin:
