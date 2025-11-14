@@ -15,6 +15,11 @@ CREATE TABLE users (
 Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment2
 
+Files:
+db_connect.php
+register.html
+register.php
+
 ### 3. Run
 MAMP:
 http://localhost:8888/experiment2/register.html
